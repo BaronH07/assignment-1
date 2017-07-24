@@ -2,22 +2,22 @@
 /* CSS Document */
 #mainBody {
 margin:auto;
-width:50%;
+background-color:#3CF;
 width:1000px;
 }
 #imagesGrid {
-	background-color:#3CF;
-}
-#imagesGrid {
 	margin:auto;
+	width:inherit;
 }
 #imagesGrid,th,td{
-	border:1px solid black;
+	border:2px solid black;
+	border-collapse:collapse;
 }
 td {
-	width:250px;
+	width:246px;
 }
-img {	width:inherit;
+img {	
+width:inherit;
 
 }
 img:hover {
