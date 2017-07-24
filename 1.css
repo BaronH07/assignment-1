@@ -16,9 +16,8 @@ width:1000px;
 td {
 	width:246px;
 }
-img {	
-width:inherit;
-
+img {
+	width:inherit;
 }
 img:hover {
 	cursor:pointer;
